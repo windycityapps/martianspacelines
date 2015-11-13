@@ -1,8 +1,8 @@
 # martianspacelines
-# Welcome to Matian Spacelines
-# An awesome way of scheduling your trips to the Moon and Mars
-# 
-# Some quick facts about computing travel time to Mars
+ Welcome to Martian Spacelines
+ An awesome way of scheduling your trips to the Moon and Mars
+ 
+ Some quick facts about computing travel time to Mars
 #
 # Mars distance from from Earth fluctuats and goes from a max distance of 35 million miles and min distance 250 million miles
 # depending and where it is in its 2 year cycle
