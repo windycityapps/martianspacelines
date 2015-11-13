@@ -46,7 +46,7 @@ class martianDb {
 	public static function earthCountryOrigin() 
 	{
 		return self::$countries = 
-			[ "Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Angola",
+			[  "Jordan", "Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Angola",
 			"Anguilla", "Antarctica", "Antigua and Barbuda", "Argentina", "Armenia", "Aruba",
 			"Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", 
 			"Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bermuda", "Bhutan", "Bolivia", 
@@ -64,7 +64,7 @@ class martianDb {
 			"Grenada", "Guadeloupe", "Guam", "Guatemala", "Guinea", "Guinea-Bissau", "Guyana", 
 			"Haiti", "Heard and Mc Donald Islands", "Holy See (Vatican City State)", "Honduras", 
 			"Hong Kong", "Hungary", "Iceland", "India", "Indonesia", "Iran (Islamic Republic of)", 
-			"Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", 
+			"Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Kazakhstan", 
 			"Kenya", "Kiribati", "Korea, Democratic People's Republic of", "Korea, Republic of", 
 			"Kuwait", "Kyrgyzstan", "Lao, People's Democratic Republic", "Latvia", "Lebanon", 
 			"Lesotho", "Liberia", "Libyan Arab Jamahiriya", "Liechtenstein", "Lithuania", 
