@@ -1,17 +1,18 @@
- #martianspacelines
- Welcome to Martian Spacelines
- An awesome way of scheduling your trips to the Moon and Mars
+ # Martian Spacelines
+
+ Welcome to Martian Spacelines!
+ An awesome way of scheduling your trips to the Moon and Mars.
  
- Some quick facts about computing travel time to Mars
+ Some quick facts about computing travel time to Mars:
 
- Mars distance from from Earth fluctuats and goes from a max distance of 35 million miles and min distance 250 million miles
- depending and where it is in its 2 year cycle
+ Mars distance from from Earth fluctuates and goes from a max distance of 35 million miles and min distance 250 million miles
+ depending and where it is in its 2 year cycle.
 
- Mars travel towards or away from Earth 432,000 miles per day
+ Mars travel towards or away from Earth 432,000 miles per day.
 
- Orion spacecraft top speed is 20,000 mph
+ Orion spacecraft top speed is 20,000 mph.
 
- On October 30, 2015 Mars was 205 million miles from Earth 
+ On October 30, 2015 Mars was 205 million miles from Earth.
 
  I used October 30 as base to calculate where Mars is, how many miles away, and how long it would take Orion to make to Martian orbit.
 
