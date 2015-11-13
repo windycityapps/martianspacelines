@@ -3,15 +3,54 @@
 
 class marsTicket extends spaceTravel 
 {
+	
+     /**
+     * const BASETIME unix time of October 30, 2015 
+     */
 	const BASETIME = 1446159600;
+
+	/**
+     * const for how mant miles planet Mars travels towards or away from Earth
+     */
 	const DISMILEDAY = 432000;
-	const BASEDISTANCE = 205590648;					 
+
+	/**
+     * const distance planet Mars is from Earth on October 30, 2015 
+     */
+	const BASEDISTANCE = 205590648;	
+
+	/**
+     * const how many seconds in a day 
+     */				 
 	const SECDAY = 86400;
+
+	/**
+     * const speed Orion spacecraft will travel towards Mars 
+     */
 	const ORIONSPEED = 20000;
+
+	/**
+     * const miles Orion spacecraft will travel in a day
+     */
 	const TRAVELDAYORION = 480000;
-	public  $strdays;
-	public static $curDayUnixTime;
-	public static $daysToMarsOrbit;
+
+	/**
+	 * @var $strdays current day expressed in unix format
+     *  
+     */
+	private  $strdays;
+
+	/**
+	 * @var $curDayUnixTime how many miles Mars traveled since base time
+     *  
+     */
+	private static $curDayUnixTime;
+
+	/**
+	 * @var $daysToMarsOrbit days until Mars orbit from earth
+     *  
+     */
+	private static $daysToMarsOrbit;
 
 
 
