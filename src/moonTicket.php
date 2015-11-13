@@ -35,7 +35,4 @@ class moonTicket extends spaceTravel
    $roundTrip = self::MOONTRAVEL * 2 + $this->weekstay;
 	return $roundTrip;
 	}
-
-
-
 }
